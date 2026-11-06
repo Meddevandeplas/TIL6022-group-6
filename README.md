@@ -18,6 +18,8 @@ This project investigates to what extent age-specific policy interventions have 
 - Data_age_research: containing the CBS dataset used in the analysis.
 - Output: containing all figures used in the report.
 - Code: containing the Python code for the analysis of each sub-question.
+- Project_proposal_group_6.ipynb: the project proposal notebook for the report.
+- Project_proposal_group_6.html: HTML export of the project proposal.
 - End_report_group6.ipynb: the main report notebook.
 - End_report_group6.html: HTML export of the main report.
 - README: file with instructions.
